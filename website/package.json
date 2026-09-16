@@ -1,0 +1,1 @@
+{"name":"cake-club-website","private":true,"scripts":{"build":"python3 build.py","dev":"python3 -u -m http.server 3010 --bind 127.0.0.1"}}
