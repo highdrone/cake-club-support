@@ -1,0 +1,72 @@
+[
+  {
+    "file": "apple-launch-assets/Landscape Banner Ad - 1200x720.png",
+    "width": 1280,
+    "height": 720,
+    "bytes": 910015,
+    "sha256": "777552be86cd8709f98a0355321e9665e77e6641279ddff9a4c82230ef9d77a6"
+  },
+  {
+    "file": "apple-launch-assets/Link Card Preview Image - 1200x628.png",
+    "width": 1200,
+    "height": 628,
+    "bytes": 761576,
+    "sha256": "6867beaacf52c0a9338acd6ef2207e1a6f38578b9ac2711a37bd27f25dba13d7"
+  },
+  {
+    "file": "apple-launch-assets/Portrait Banner Ad - 720x1280.png",
+    "width": 720,
+    "height": 1280,
+    "bytes": 1125582,
+    "sha256": "598792ce51f4ecd795af2a7e7ccf80e4074611c2df227ffd901afceb82207550"
+  },
+  {
+    "file": "apple-launch-assets/Square Post - 1080x1080.png",
+    "width": 1080,
+    "height": 1080,
+    "bytes": 1395268,
+    "sha256": "29c1a51933fb42f4e3ae3c5e9620ea275382ab34270973626dad7f451697b03b"
+  },
+  {
+    "file": "apple-launch-assets/Story Post - 1080x1920.png",
+    "width": 1080,
+    "height": 1920,
+    "bytes": 2726897,
+    "sha256": "59ad4673a7955b2d30ccdfb0ed49c57949b7b23a71d8949480d76d959df86483"
+  },
+  {
+    "file": "gameplay/decorate.png",
+    "width": 660,
+    "height": 1435,
+    "bytes": 779842,
+    "sha256": "e089ca0280f0269c6bd70ee1fc121c68d2226bce39ca6e8006f31bb15d1beabd"
+  },
+  {
+    "file": "gameplay/icon.png",
+    "width": 128,
+    "height": 128,
+    "bytes": 25988,
+    "sha256": "8798c1ed8ab550fd638202bb85fd543fad288e47be493450c10a4132a4af4393"
+  },
+  {
+    "file": "gameplay/pipe.png",
+    "width": 660,
+    "height": 1435,
+    "bytes": 667107,
+    "sha256": "cbf668c87e8b4fded271020572137a4ae1f1925c5faf2ff3a3dda626433a7cbe"
+  },
+  {
+    "file": "gameplay/steer.png",
+    "width": 660,
+    "height": 1435,
+    "bytes": 802276,
+    "sha256": "bc93ac8f9ebd26d3db451a399ac1d4529793ea480ecd640a57acb83c1dac1210"
+  },
+  {
+    "file": "gameplay/zoom.png",
+    "width": 1320,
+    "height": 2868,
+    "bytes": 1500208,
+    "sha256": "ed6710a95c1e9de4b78d2411ff0bc65bec47531ccf532ad95fd78e4119de8bd1"
+  }
+]
