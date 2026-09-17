@@ -23,3 +23,7 @@ Production is hosted through the existing Sites project in `website/.openai/host
 - Pinch zoom, smooth return after five seconds of inactivity, subtle dotted icing guides, and full-cake comparison documented.
 - TestFlight: https://testflight.apple.com/join/4RGF1HvH
 - Public App Store submission was verified Waiting for Review, with automatic release after approval. This is a historical record, not a live approval status.
+
+## Public launch — September 17, 2026
+
+Cake Club is live at https://apps.apple.com/us/app/cake-club/id6808979979. The homepage now uses Apple’s official black Download on the App Store badge. Guide and support availability text link to the public listing. Website source revision: `b4d64e4a0ab7c2a528a94e788bc5c5671653ce3e`.
